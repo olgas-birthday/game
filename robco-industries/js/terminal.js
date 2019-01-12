@@ -802,7 +802,6 @@ RandomPointer = function()
 const OLGAS_WORDS = [
   'ARTUREK',
   'DWORNIK',
-  'EKLEREK',
   'EKLERKI',
   'ETIOPIA',
   'FALLOUT',
