@@ -35,7 +35,10 @@
         <script type="text/javascript" src="robco-industries/js/terminal.js"></script>
         <script>
             $(window).on("load", function() {
-                Initialize(7, 12, "pages/test.html");
+                let defaultCount = 12;
+                let defaultDifficulty = 7;
+                let target = "pages/test.html";
+                Initialize(defaultDifficulty, defaultCount, target);
             });
         </script>
 	</body>
